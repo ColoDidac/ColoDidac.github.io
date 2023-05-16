@@ -16,7 +16,7 @@
         <terms:license rdf:resource="https://opensource.org/licenses/ISC"/>
         <terms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-05</terms:modified>
         <terms:publisher rdf:resource="https://glomicave.eu/"/>
-        <terms:source rdf:resource="https://github.com/ColoDidac/ColoDidac.github.io"/>
+        <terms:source rdf:resource="https://github.com/ColoDidac/ColoDidac.github.io/blob/main/OnToology/isa-glomicave.ttl/documentation/doc/ontology.ttl"/>
         <terms:title xml:lang="en">ISA Abstract Model extended to Metabolites, Gnomic and Metabolonic studies </terms:title>
         <vann:preferredNamespacePrefix>glomicave</vann:preferredNamespacePrefix>
         <vann:preferredNamespaceUri>https://w3id.org/def/glomicave-dd/</vann:preferredNamespaceUri>
