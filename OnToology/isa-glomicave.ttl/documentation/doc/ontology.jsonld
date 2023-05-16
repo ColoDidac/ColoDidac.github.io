@@ -295,7 +295,7 @@
     "@id" : "https://glomicave.eu/"
   } ],
   "http://purl.org/dc/terms/source" : [ {
-    "@id" : "https://github.com/ColoDidac/glomicave-dd"
+    "@id" : "https://github.com/ColoDidac/ColoDidac.github.io"
   } ],
   "http://purl.org/dc/terms/title" : [ {
     "@language" : "en",

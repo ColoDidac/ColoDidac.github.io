@@ -14,7 +14,7 @@
                                       <http://purl.org/dc/terms/license> <https://opensource.org/licenses/ISC> ;
                                       <http://purl.org/dc/terms/modified> "2022-04-05"^^xsd:date ;
                                       <http://purl.org/dc/terms/publisher> <https://glomicave.eu/> ;
-                                      <http://purl.org/dc/terms/source> <https://github.com/ColoDidac/glomicave-dd> ;
+                                      <http://purl.org/dc/terms/source> <https://github.com/ColoDidac/ColoDidac.github.io> ;
                                       <http://purl.org/dc/terms/title> "ISA Abstract Model extended to Metabolites, Gnomic and Metabolonic studies "@en ;
                                       <http://purl.org/vocab/vann/preferredNamespacePrefix> "glomicave" ;
                                       <http://purl.org/vocab/vann/preferredNamespaceUri> "https://w3id.org/def/glomicave-dd/" ;
