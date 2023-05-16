@@ -6,7 +6,7 @@
 <https://w3id.org/def/glomicave-dd/> <http://purl.org/dc/terms/license> <https://opensource.org/licenses/ISC> .
 <https://w3id.org/def/glomicave-dd/> <http://purl.org/dc/terms/modified> "2022-04-05"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://w3id.org/def/glomicave-dd/> <http://purl.org/dc/terms/publisher> <https://glomicave.eu/> .
-<https://w3id.org/def/glomicave-dd/> <http://purl.org/dc/terms/source> <https://github.com/ColoDidac/glomicave-dd> .
+<https://w3id.org/def/glomicave-dd/> <http://purl.org/dc/terms/source> <https://github.com/ColoDidac/ColoDidac.github.io> .
 <https://w3id.org/def/glomicave-dd/> <http://purl.org/dc/terms/title> "ISA Abstract Model extended to Metabolites, Gnomic and Metabolonic studies "@en .
 <https://w3id.org/def/glomicave-dd/> <http://purl.org/vocab/vann/preferredNamespacePrefix> "glomicave" .
 <https://w3id.org/def/glomicave-dd/> <http://purl.org/vocab/vann/preferredNamespaceUri> "https://w3id.org/def/glomicave-dd/" .
