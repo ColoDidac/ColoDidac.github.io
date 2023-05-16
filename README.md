@@ -20,7 +20,7 @@ Source: https://isa-specs.readthedocs.io/en/latest/isamodel.html#
 The proposed ontology not only focused on the abstract reference model but also, served as a extention to different metabolonic, gnomic and metabolites studies. Also, the ontoloy has been also linked with referent models in relation to provide observation and measurement ontology pattern. Finally, the proposed semantic model has been also linked with referent repositories for representing studies and assays: 
 
 1. Metabolites repository
-2. Array Express
+2. Metabolomic workbench
 3. GEO Repository
 
 Considering the ontology structure, the built ontology model is built based on the following core module according to the ISA documentation: 
