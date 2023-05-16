@@ -25,7 +25,7 @@ The proposed ontology not only focused on the abstract reference model but also,
 
 Considering the ontology structure, the built ontology model is built based on the following core module according to the ISA documentation: 
 
-The ontology can be found [here](https://github.com/ColoDidac/ColoDidac.github.io/blob/gh-pages/OnToology/isa-glomicave.ttl/documentation/doc/index-en.html).
+The ontology can be found [here](https://github.com/ColoDidac/ColoDidac.github.io/blob/main/isa-glomicave.ttl).
 ## Appendix and FAQ
 
 :::info
